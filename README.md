@@ -1,2 +1,2 @@
-# S206
-Repositório para a matéria de Engenharia de Software
+## Qualidade de Software
+```Aluno: Pedro Pereira Guimarães```
