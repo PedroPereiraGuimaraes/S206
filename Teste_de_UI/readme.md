@@ -1,5 +1,5 @@
-## Lista de Exercício - Teste de UI
-### Questões
+## Lista de Exercício - Teste de UI 🚀
+### Questões 📒
 - Utilizando todo conhecimento obtido durante as aulas, desenvolva nomínimo 6 casos de teste para algumwebsiteda sua escolha (Pelo menos 1 caso devesernegativo). Atente-se para as seguintes informações:
 
     - Recomenda-sea utilização da ferramenta cypress.
@@ -7,7 +7,7 @@
     - O código deve ser capaz de gerar o relatório final de testes. O relatório pode ser o mochawesomeou algum outro que forneça as informações relevantes para o teste.
     - O exercício deve ser entregue via GitHub. Com um README adequado que forneça informações relevantes (Ex: Como executar o projeto e obter o relatóriode testes).
 
-### Como rodar os testes
+### Como rodar os testes 🧪
 - Acese o Git Bash e digite o seguinte comando:
     ```
     ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
@@ -16,5 +16,7 @@
     ```
     cypress/reports
     ```
-
-![Texto alternativo da imagem]("./reports/resultados.png")
+### Feito por 🔎
+```
+Pedro Pereira Guimarães - GEC - 1666
+```
