@@ -21,5 +21,8 @@ jobs:
     - name: Install Cypress
       run: npm install cypress
 
+    - name: Cypress Open
+      run: npx cypress open
+
     - name: Run Cypress tests
       run: npx cypress run --spec 'cypress/e2e/teste_ui/**/*'
