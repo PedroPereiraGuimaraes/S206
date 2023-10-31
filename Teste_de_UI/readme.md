@@ -16,3 +16,5 @@
     ```
     cypress/reports
     ```
+
+![Texto alternativo da imagem]("./reports/resultados.png")
