@@ -1,2 +1,4 @@
 ## Qualidade de Software
-```Aluno: Pedro Pereira Guimarães```
+```
+Aluno: Pedro Pereira Guimarães
+```
