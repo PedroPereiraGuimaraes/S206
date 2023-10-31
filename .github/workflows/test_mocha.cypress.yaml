@@ -22,4 +22,4 @@ jobs:
       run: npm install cypress
 
     - name: Run Cypress tests
-      run: npx cypress run --spec 'Teste_de_UI/cypress/e2e/teste_ui/**/*'
+      run: npx cypress run --spec 'cypress/e2e/teste_ui/**/*'
